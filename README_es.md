@@ -37,123 +37,128 @@ Si te gusta, ¡por favor, márcalo con una ⭐ Estrella para guardarlo!
 - **Sep-3-2025:** 2️⃣ Segunda actualización del repositorio
 - **Aug-28-2025:** 🎉 1️⃣ ${\color{red} ¡Primera\ actualización\ de\ Awesome-Nano-Banana-images!}$
 
-## 📑 Menú
+<h2 id="-menu">📑 Menú</h2>
 
-- [🍌 Introducción](#-introduction)
-- [📰 Noticias](#-news)
-- [📑 Menú](#-menu)
-- [🖼️ Casos](#️-cases)
-  - [Caso 1: Ilustración a Figura（por @ZHO\_ZHO\_ZHO）](#case-1-illustration-to-figureby-zho_zho_zho)
-  - [Caso 2: Generar Vista a Nivel de Suelo desde Flecha de Mapa（por @tokumin）](#case-2-generate-ground-view-from-map-arrowby-tokumin)
-  - [Caso 3: Información de RA del Mundo Real（por @bilawalsidhu）](#case-3-real-world-ar-informationby-bilawalsidhu)
-  - [Caso 4: Extraer Edificios 3D/Crear Modelos Isométricos（por @Zieeett）](#case-4-extract-3d-buildingsmake-isometric-modelsby-zieeett)
-  - [Caso 5: Fotos Tuyas en Diferentes Épocas（por @AmirMushich）](#case-5-photos-of-yourself-in-different-erasby-amirmushich)
-  - [Caso 6: Generación de Imágenes con Múltiples Referencias（por @MrDavids1）](#case-6-multi-reference-image-generationby-mrdavids1)
-  - [Caso 7: Edición Automática de Fotos（por @op7418）](#case-7-automatic-photo-editingby-op7418)
-  - [Caso 8: Dibujo a Mano Controla Poses de Múltiples Personajes（por @op7418）](#case-8-hand-drawing-controls-multi-character-posesby-op7418)
-  - [Caso 9: Generación de Imágenes de Vista Cruzada（por @op7418）](#case-9-cross-view-image-generationby-op7418)
-  - [Caso 10: Stickers de Personajes Personalizados（por @op7418）](#case-10-custom-character-stickersby-op7418)
-  - [Caso 11: De Anime a Cosplayer Real（por @ZHO\_ZHO\_ZHO）](#case-11-anime-to-real-coserby-zho_zho_zho)
-  - [Caso 12: Generar Diseño de Personaje（por @ZHO\_ZHO\_ZHO）](#case-12-generate-character-designby-zho_zho_zho)
-  - [Caso 13: Colorear Arte Lineal con Paleta de Colores（por @ZHO\_ZHO\_ZHO）](#case-13-color-line-art-with-color-paletteby-zho_zho_zho)
-  - [Caso 14: Infografía de Artículo（por @黄建同学）](#case-14-article-infographicby-黄建同学)
-  - [Caso 15: Cambiar Múltiples Peinados（por @balconychy）](#case-15-change-multiple-hairstylesby-balconychy)
-  - [Caso 16: Diagrama Explicativo con Anotaciones de Modelo（por @berryxia\_ai）](#case-16-model-annotation-explanation-diagramby-berryxia_ai)
-  - [Caso 17: Escultura de Mármol Personalizada（por @umesh\_ai）](#case-17-custom-marble-sculptureby-umesh_ai)
-  - [Caso 18: Cocinar Basado en Ingredientes（por @Gdgtify）](#case-18-cook-based-on-ingredientsby-gdgtify)
-  - [Caso 19: Razonamiento de Problemas Matemáticos（por @Gorden Sun）](#case-19-math-problem-reasoningby-gorden-sun)
-  - [Caso 20: Coloreado de Fotos Antiguas（por @GeminiApp）](#case-20-old-photo-colorizationby-geminiapp)
-  - [Caso 21: Atuendo OOTD（por @302.AI）](#case-21-ootd-outfitby-302ai)
-  - [Caso 22: Cambio de Ropa de Personaje（por @skirano）](#case-22-character-clothing-changeby-skirano)
-  - [Caso 23: Generación de Resultados Multivista（por @Error\_HTTP\_404）](#case-23-multi-view-result-generationby-error_http_404)
-  - [Caso 24: Storyboard de Película（por @GeminiApp）](#case-24-movie-storyboardby-geminiapp)
-  - [Caso 25: Modificación de Pose de Personaje（por @arrakis\_ai）](#case-25-character-pose-modificationby-arrakis_ai)
-  - [Caso 26: Generar Imagen desde Dibujo Lineal（por @ZHO\_ZHO\_ZHO）](#case-26-generate-image-from-line-drawingby-zho_zho_zho)
-  - [Caso 27: Añadir Marca de Agua a Imagen（por @AiMachete）](#case-27-add-watermark-to-imageby-aimachete)
-  - [Caso 28: Generación de Imágenes con Razonamiento de Conocimiento（por @icreatelife）](#case-28-knowledge-reasoning-image-generationby-icreatelife)
-  - [Caso 29: Anotaciones con Bolígrafo Rojo（por @AiMachete）](#case-29-red-pen-annotationsby-aimachete)
-  - [Caso 30: Comida Explosiva（por @icreatelife）](#case-30-explosive-foodby-icreatelife)
-  - [Caso 31: Crear un Cómic（por @icreatelife）](#case-31-create-comic-bookby-icreatelife)
-  - [Caso 32: Figura de Acción（por @icreatelife）](#case-32-action-figureby-icreatelife)
-  - [Caso 33: De Mapa a Edificios Isométricos（por @demishassabis）](#case-33-map-to-isometric-buildingsby-demishassabis)
-  - [Caso 34: Imagen de Referencia Controla Expresión de Personaje（por @ZHO\_ZHO\_ZHO）](#case-34-reference-image-controls-character-expressionby-zho_zho_zho)
-  - [Caso 35: Proceso de Dibujo de Ilustración en Cuatro Paneles（por @ZHO\_ZHO\_ZHO）](#case-35-illustration-drawing-process-four-panelby-zho_zho_zho)
-  - [Caso 36: Prueba de Maquillaje Virtual（por @ZHO\_ZHO\_ZHO）](#case-36-virtual-makeup-try-onby-zho_zho_zho)
-  - [Caso 37: Análisis de Maquillaje（por @ZHO\_ZHO\_ZHO）](#case-37-makeup-analysisby-zho_zho_zho)
-  - [Caso 38: Vista de Google Maps de la Tierra Media（por @TechHallo）](#case-38-google-maps-view-of-middle-earthby-techhallo)
-  - [Caso 39: Generación de Ilustración Tipográfica（por @Umesh）](#case-39-typographic-illustration-generationby-umesh)
-  - [Caso 40: Generación de Poses de Múltiples Personajes（por @tapehead\_Lab）](#case-40-multiple-character-poses-generationby-tapehead_lab)
-  - [Caso 41: Generación de Empaque de Producto（por @ZHO\_ZHO\_ZHO）](#case-41-product-packaging-generationby-zho_zho_zho)
-  - [Caso 42: Superponer Filtro/Material（por @ZHO\_ZHO\_ZHO）](#case-42-overlay-filtermaterialby-zho_zho_zho)
-  - [Caso 43: Controlar Forma de la Cara del Personaje（por @ZHO\_ZHO\_ZHO）](#case-43-control-character-face-shapeby-zho_zho_zho)
-  - [Caso 44: Control de Iluminación（por @ZHO\_ZHO\_ZHO）](#case-44-lighting-controlby-zho_zho_zho)
-  - [Caso 45: Minifigura de LEGO（por @ZHO\_ZHO\_ZHO）](#case-45-lego-minifigureby-zho_zho_zho)
-  - [Caso 46: Figura Modelo Gundam（por @ZHO\_ZHO\_ZHO）](#case-46-gundam-model-figureby-zho_zho_zho)
-  - [Caso 47: Vista Explosiva de Hardware（por @AIimagined）](#case-47-hardware-exploded-viewby-aiimagined)
-  - [Caso 48: Anotación de Calorías de Alimentos（por @icreatelife）](#case-48-food-calorie-annotationby-icreatelife)
-  - [Caso 49: Extraer Sujeto y Colocar en Capa Transparente（por @nglprz）](#case-49-extract-subject-and-place-on-transparent-layerby-nglprz)
-  - [Caso 50: Reparación de Imagen por Outpainting（por @bwabbage）](#case-50-image-outpainting-repairby-bwabbage)
-  - [Caso 51: Mapa Antiguo → Foto de Escena Histórica（por @levelsio）](#case-51-ancient-map--historical-scene-photoby-levelsio)
-  - [Caso 52: Collage de Moodboard de Moda（por @tetumemo）](#case-52-fashion-moodboard-collageby-tetumemo)
-  - [Caso 53: Foto de Producto Delicada y Bonita（por @azed\_ai）](#case-53-delicate-cute-product-photoby-azed_ai)
-  - [Caso 54: Colocar Estatua de Anime en la Vida Real（por @riddi0908）](#case-54-place-anime-statue-in-real-lifeby-riddi0908)
-  - [Caso 55: Crear un Coche Itasha（por @riddi0908）](#case-55-create-an-itasha-carby-riddi0908)
-  - [Caso 56: Composición de Manga（por @namaedousiyoka）](#case-56-manga-compositionby-namaedousiyoka)
-  - [Caso 57: Conversión a Estilo Manga（por @nobisiro\_2023）](#case-57-manga-style-conversionby-nobisiro_2023)
-  - [Caso 58: Wireframe Holográfico Isométrico（por @tetumemo）](#case-58-isometric-holographic-wireframeby-tetumemo)
-  - [Caso 59: Generación de Escena Estilo Minecraft（por @tetumemo）](#case-59-minecraft-style-scene-generationby-tetumemo)
-  - [Caso 60: Aplicar Esfera de Material a Logo（por @ZHO\_ZHO\_ZHO）](#case-60-apply-material-sphere-to-logoby-zho_zho_zho)
-  - [Caso 61: Render 3D de Plano de Planta（por @op7418）](#case-61-floor-plan-3d-renderby-op7418)
-  - [Caso 62: Restablecer Parámetros de Cámara（por @hckinz）](#case-62-reset-camera-parametersby-hckinz)
-  - [Caso 63: Crear una Foto de Identificación（por @songguoxiansen）](#case-63-create-an-id-photoby-songguoxiansen)
-  - [Caso 64: Tarjeta Plegable A6 de Escena（por @Gdgtify）](#case-64-scene-a6-folding-cardby-gdgtify)
-  - [Caso 65: Diseñar un Juego de Ajedrez（por @Gdgtify）](#case-65-design-a-chess-setby-gdgtify)
-  - [Caso 66: Foto de Estilo de Contraste Dividido（por @fofrAI）](#case-66-split-contrast-style-photoby-fofrai)
-  - [Caso 67: Diseño de Colección de Joyería（por @Gdgtify）](#case-67-jewelry-collection-designby-gdgtify)
-  - [Caso 68: Diseño de Mercancía（por @0xFramer）](#case-68-merchandise-designby-0xframer)
-  - [Ejemplo 69: Proyección Holográfica de Modelo (por @UNIBRACITY)](#example-69-model-holographic-projection-by-unibracity)
-  - [Ejemplo 70: Andamio de Figura Gigante (por @songguoxiansen)](#example-70-giant-figure-scaffolding-by-songguoxiansen)
-  - [Ejemplo 71: Extracción de Edificios de Imagen de Detección Remota (por @lehua555)](#example-71-building-extraction-from-remote-sensing-image-by-lehua555)
-  - [Ejemplo 72: Extracción de Componentes (por @tetumemo)](#example-72-component-extraction-by-tetumemo)
-  - [Ejemplo 73: Eliminar Ingredientes de Hamburguesa (por @bind\_lux, caso proporcionado por @jeanlucaslima)](#example-73-remove-burger-ingredients-by-bind_lux-case-provided-by-jeanlucaslima)
-  - [Ejemplo 74: Restauración de Imagen de Alta Resolución (por @op7418)](#example-74-high-resolution-image-restoration-by-op7418)
-  - [Ejemplo 75: Generar Escena en Miniatura a partir de Imagen (por @techhalla)](#example-75-generate-miniature-scene-from-image-by-techhalla)
-  - [Ejemplo 76: Cómic Educativo (por @op7418)](#example-76-educational-comic-by-op7418)
-  - [Ejemplo 77: Generación de Pack de Emojis de Personaje Personalizado (por @vista8)](#example-77-custom-character-emoji-pack-generation-by-vista8)
-  - [Ejemplo 78: Restaurar Comida Parcialmente Comida (por @googlejapan)](#example-78-restore-partially-eaten-food-by-googlejapan)
-  - [Ejemplo 79: Creación de Interfaz de Juego de Lucha (por @NanoBanana\_labs)](#example-79-fighting-game-interface-creation-by-nanobanana_labs)
-  - [Ejemplo 80: Sección Transversal de Modelo (por @old\_pgmrs\_will)](#example-80-model-cross-section-by-old_pgmrs_will)
-  - [Ejemplo 81: Cartel de Se Busca de Pirata (por @AI\_Kei75)](#example-81-pirate-wanted-poster-by-ai_kei75)
-  - [Ejemplo 82: Estante de Exhibición de Mercancía (por @tokyo\_Valentine)](#example-82-merchandise-display-shelf-by-tokyo_valentine)
-  - [Ejemplo 83: Stand de Convención de Cómics (por @tokyo\_Valentine)](#example-83-comic-convention-booth-by-tokyo_valentine)
-  - [Ejemplo 84: De Arte Lineal a Dibujo Doodle (por @hAru\_mAki\_ch)](#example-84-line-art-to-doodle-drawing-by-haru_maki_ch)
-  - [Ejemplo 85: Espacio de Exposición de Arte Contemporáneo (por @UNIBRACITY)](#example-85-contemporary-art-exhibition-space-by-unibracity)
-  - [Ejemplo 86: Carta de Tarot Gótica Oscura (por @ImperfectEngel)](#example-86-dark-gothic-tarot-card-by-imperfectengel)
-  - [Ejemplo 87: Tabla de Evolución en Blanco y Negro (por @ZHO\_ZHO\_ZHO)](#example-87-black-and-white-evolution-chart-by-zho_zho_zho)
-  - [Ejemplo 88: Souvenir en Botella de Vidrio (por @NanoBanana\_labs)](#example-88-glass-bottle-souvenir-by-nanobanana_labs)
-  - [Ejemplo 89: Tienda en Miniatura (por @NanoBanana\_labs)](#example-89-miniature-store-by-nanobanana_labs)
-  - [Ejemplo 90: Convertirse en un Vtuber (por @AI\_Kei75)](#example-90-become-a-vtuber-by-ai_kei75)
-  - [Ejemplo 91: Póster de Película en Estación de Tren (por @AI\_Kei75)](#example-91-train-station-movie-poster-by-ai_kei75)
-  - [Ejemplo 92: Sala Lounge de Cine (por @tokyo\_Valentine)](#example-92-movie-lounge-by-tokyo_valentine)
-  - [Ejemplo 93: Objeto Cortado con Explosión de Caricatura (por @Arminn_Ai)](#example-93-slice-object-with-cartoon-explosion-effect-by-arminn_ai)
-  - [Ejemplo 94: Tren Temático de Personajes (por @tokyo\_Valentine)](#example-94-character-themed-train-by-tokyo_valentine)
-  - [Ejemplo 95: Parque Temático Personalizado (por @AI\_Kei75)](#example-95-custom-theme-park-by-ai_kei75)
-  - [Ejemplo 96: Crear Imagen de Constelación (por @AI\_Kei75)](#example-96-create-constellation-image-by-ai_kei75)
-  - [Ejemplo 97: Convertir Imagen en Fondo de Móvil (por @ZHO\_ZHO\_ZHO)](#example-97-turn-image-into-phone-wallpaper-by-zho_zho_zho)
-  - [Ejemplo 98: Crear Póster de Película (por @aiehon_aya)](#example-98-make-a-movie-poster-by-aiehon_aya)
-  - [Ejemplo 99: Convertir Cuenta de X en Disquete (por @icreatelife)](#example-99-turn-x-account-into-floppy-disk-by-icreatelife)
-  - [Ejemplo 100: Volver Transparente el Objeto de Referencia (por @icreatelife)](#example-100-make-reference-image-object-transparent-by-icreatelife)
-  - [Ejemplo 101: Ilustración con Mirilla de Ojo de Pez (por @emakiscroll)](#example-101-fisheye-peephole-illustration-by-emakiscroll)
-  - [Ejemplo 102: Diseño Interior de Superhéroe (por @IqraSaifiii)](#example-102-superhero-interior-design-by-iqrasafiii)
-  - [Ejemplo 103: UFO Catcher Personalizado (por @googlejapan)](#example-103-custom-claw-machine-by-googlejapan)
-  - [Ejemplo 104: Diseño de Logo Tipográfico (por @aziz4ai)](#example-104-typography-logo-design-by-aziz4ai)
-  - [Ejemplo 105: UI de Estado de Personaje RPG (por @AI\_Kei75)](#example-105-rpg-character-status-ui-by-ai_kei75)
-  - [Ejemplo 106: Convertir Diagrama en Pictogramas (por @nobisiro_2023)](#example-106-convert-text-diagram-to-pictograms-by-nobisiro_2023)
-  - [Ejemplo 107: Dibujo en Tableta Gráfica (por @AI\_Kei75)](#example-107-drawing-on-a-pen-display-by-ai_kei75)
-  - [Ejemplo 108: Crear Imagen de Sticker LINE (por @emakiscroll)](#example-108-create-line-stamp-image-by-emakiscroll)
-  - [Ejemplo 109: Terapia para el Yo Infantil (por @samann_ai)](#example-109-therapy-for-childhood-self-by-samann_ai)
-  - [Ejemplo 110: Retrato Estilo Pixar (por @NanoBanana\_labs)](#example-110-pixar-style-portrait-by-nanobanana_labs)
-- [🙏 Agradecimientos](#-acknowledge)
+<ul>
+  <li><a href="#-introduction">🍌 Introducción</a></li>
+  <li><a href="#-news">📰 Noticias</a></li>
+  <li><a href="#-menu">📑 Menú</a></li>
+  <li><a href="#️-cases">🖼️ Casos</a>
+    <ul>
+      <li><a href="#case-1-illustration-to-figureby-zho_zho_zho">Caso 1: Ilustración a Figura（por @ZHO\_ZHO\_ZHO）</a></li>
+      <li><a href="#case-2-generate-ground-view-from-map-arrowby-tokumin">Caso 2: Generar Vista a Nivel de Suelo desde Flecha de Mapa（por @tokumin）</a></li>
+      <li><a href="#case-3-real-world-ar-informationby-bilawalsidhu">Caso 3: Información de RA del Mundo Real（por @bilawalsidhu）</a></li>
+      <li><a href="#case-4-extract-3d-buildingsmake-isometric-modelsby-zieeett">Caso 4: Extraer Edificios 3D/Crear Modelos Isométricos（por @Zieeett）</a></li>
+      <li><a href="#case-5-photos-of-yourself-in-different-erasby-amirmushich">Caso 5: Fotos Tuyas en Diferentes Épocas（por @AmirMushich）</a></li>
+      <li><a href="#case-6-multi-reference-image-generationby-mrdavids1">Caso 6: Generación de Imágenes con Múltiples Referencias（por @MrDavids1）</a></li>
+      <li><a href="#case-7-automatic-photo-editingby-op7418">Caso 7: Edición Automática de Fotos（por @op7418）</a></li>
+      <li><a href="#case-8-hand-drawing-controls-multi-character-posesby-op7418">Caso 8: Dibujo a Mano Controla Poses de Múltiples Personajes（por @op7418）</a></li>
+      <li><a href="#case-9-cross-view-image-generationby-op7418">Caso 9: Generación de Imágenes de Vista Cruzada（por @op7418）</a></li>
+      <li><a href="#case-10-custom-character-stickersby-op7418">Caso 10: Stickers de Personajes Personalizados（por @op7418）</a></li>
+      <li><a href="#case-11-anime-to-real-coserby-zho_zho_zho">Caso 11: De Anime a Cosplayer Real（por @ZHO\_ZHO\_ZHO）</a></li>
+      <li><a href="#case-12-generate-character-designby-zho_zho_zho">Caso 12: Generar Diseño de Personaje（por @ZHO\_ZHO\_ZHO）</a></li>
+      <li><a href="#case-13-color-line-art-with-color-paletteby-zho_zho_zho">Caso 13: Colorear Arte Lineal con Paleta de Colores（por @ZHO\_ZHO\_ZHO）</a></li>
+      <li><a href="#case-14-article-infographicby-黄建同学">Caso 14: Infografía de Artículo（por @黄建同学）</a></li>
+      <li><a href="#case-15-change-multiple-hairstylesby-balconychy">Caso 15: Cambiar Múltiples Peinados（por @balconychy）</a></li>
+      <li><a href="#case-16-model-annotation-explanation-diagramby-berryxia_ai">Caso 16: Diagrama Explicativo con Anotaciones de Modelo（por @berryxia\_ai）</a></li>
+      <li><a href="#case-17-custom-marble-sculptureby-umesh_ai">Caso 17: Escultura de Mármol Personalizada（por @umesh\_ai）</a></li>
+      <li><a href="#case-18-cook-based-on-ingredientsby-gdgtify">Caso 18: Cocinar Basado en Ingredientes（por @Gdgtify）</a></li>
+      <li><a href="#case-19-math-problem-reasoningby-gorden-sun">Caso 19: Razonamiento de Problemas Matemáticos（por @Gorden Sun）</a></li>
+      <li><a href="#case-20-old-photo-colorizationby-geminiapp">Caso 20: Coloreado de Fotos Antiguas（por @GeminiApp）</a></li>
+      <li><a href="#case-21-ootd-outfitby-302ai">Caso 21: Atuendo OOTD（por @302.AI）</a></li>
+      <li><a href="#case-22-character-clothing-changeby-skirano">Caso 22: Cambio de Ropa de Personaje（por @skirano）</a></li>
+      <li><a href="#case-23-multi-view-result-generationby-error_http_404">Caso 23: Generación de Resultados Multivista（por @Error\_HTTP\_404）</a></li>
+      <li><a href="#case-24-movie-storyboardby-geminiapp">Caso 24: Storyboard de Película（por @GeminiApp）</a></li>
+      <li><a href="#case-25-character-pose-modificationby-arrakis_ai">Caso 25: Modificación de Pose de Personaje（por @arrakis\_ai）</a></li>
+      <li><a href="#case-26-generate-image-from-line-drawingby-zho_zho_zho">Caso 26: Generar Imagen desde Dibujo Lineal（por @ZHO\_ZHO\_ZHO）</a></li>
+      <li><a href="#case-27-add-watermark-to-imageby-aimachete">Caso 27: Añadir Marca de Agua a Imagen（por @AiMachete）</a></li>
+      <li><a href="#case-28-knowledge-reasoning-image-generationby-icreatelife">Caso 28: Generación de Imágenes con Razonamiento de Conocimiento（por @icreatelife）</a></li>
+      <li><a href="#case-29-red-pen-annotationsby-aimachete">Caso 29: Anotaciones con Bolígrafo Rojo（por @AiMachete）</a></li>
+      <li><a href="#case-30-explosive-foodby-icreatelife">Caso 30: Comida Explosiva（por @icreatelife）</a></li>
+      <li><a href="#case-31-create-comic-bookby-icreatelife">Caso 31: Crear un Cómic（por @icreatelife）</a></li>
+      <li><a href="#case-32-action-figureby-icreatelife">Caso 32: Figura de Acción（por @icreatelife）</a></li>
+      <li><a href="#case-33-map-to-isometric-buildingsby-demishassabis">Caso 33: De Mapa a Edificios Isométricos（por @demishassabis）</a></li>
+      <li><a href="#case-34-reference-image-controls-character-expressionby-zho_zho_zho">Caso 34: Imagen de Referencia Controla Expresión de Personaje（por @ZHO\_ZHO\_ZHO）</a></li>
+      <li><a href="#case-35-illustration-drawing-process-four-panelby-zho_zho_zho">Caso 35: Proceso de Dibujo de Ilustración en Cuatro Paneles（por @ZHO\_ZHO\_ZHO）</a></li>
+      <li><a href="#case-36-virtual-makeup-try-onby-zho_zho_zho">Caso 36: Prueba de Maquillaje Virtual（por @ZHO\_ZHO\_ZHO）</a></li>
+      <li><a href="#case-37-makeup-analysisby-zho_zho_zho">Caso 37: Análisis de Maquillaje（por @ZHO\_ZHO\_ZHO）</a></li>
+      <li><a href="#case-38-google-maps-view-of-middle-earthby-techhallo">Caso 38: Vista de Google Maps de la Tierra Media（por @TechHallo）</a></li>
+      <li><a href="#case-39-typographic-illustration-generationby-umesh">Caso 39: Generación de Ilustración Tipográfica（por @Umesh）</a></li>
+      <li><a href="#case-40-multiple-character-poses-generationby-tapehead_lab">Caso 40: Generación de Poses de Múltiples Personajes（por @tapehead\_Lab）</a></li>
+      <li><a href="#case-41-product-packaging-generationby-zho_zho_zho">Caso 41: Generación de Empaque de Producto（por @ZHO\_ZHO\_ZHO）</a></li>
+      <li><a href="#case-42-overlay-filtermaterialby-zho_zho_zho">Caso 42: Superponer Filtro/Material（por @ZHO\_ZHO\_ZHO）</a></li>
+      <li><a href="#case-43-control-character-face-shapeby-zho_zho_zho">Caso 43: Controlar Forma de la Cara del Personaje（por @ZHO\_ZHO\_ZHO）</a></li>
+      <li><a href="#case-44-lighting-controlby-zho_zho_zho">Caso 44: Control de Iluminación（por @ZHO\_ZHO\_ZHO）</a></li>
+      <li><a href="#case-45-lego-minifigureby-zho_zho_zho">Caso 45: Minifigura de LEGO（por @ZHO\_ZHO\_ZHO）</a></li>
+      <li><a href="#case-46-gundam-model-figureby-zho_zho_zho">Caso 46: Figura Modelo Gundam（por @ZHO\_ZHO\_ZHO）</a></li>
+      <li><a href="#case-47-hardware-exploded-viewby-aiimagined">Caso 47: Vista Explosiva de Hardware（por @AIimagined）</a></li>
+      <li><a href="#case-48-food-calorie-annotationby-icreatelife">Caso 48: Anotación de Calorías de Alimentos（por @icreatelife）</a></li>
+      <li><a href="#case-49-extract-subject-and-place-on-transparent-layerby-nglprz">Caso 49: Extraer Sujeto y Colocar en Capa Transparente（por @nglprz）</a></li>
+      <li><a href="#case-50-image-outpainting-repairby-bwabbage">Caso 50: Reparación de Imagen por Outpainting（por @bwabbage）</a></li>
+      <li><a href="#case-51-ancient-map--historical-scene-photoby-levelsio">Caso 51: Mapa Antiguo → Foto de Escena Histórica（por @levelsio）</a></li>
+      <li><a href="#case-52-fashion-moodboard-collageby-tetumemo">Caso 52: Collage de Moodboard de Moda（por @tetumemo）</a></li>
+      <li><a href="#case-53-delicate-cute-product-photoby-azed_ai">Caso 53: Foto de Producto Delicada y Bonita（por @azed\_ai）</a></li>
+      <li><a href="#case-54-place-anime-statue-in-real-lifeby-riddi0908">Caso 54: Colocar Estatua de Anime en la Vida Real（por @riddi0908）</a></li>
+      <li><a href="#case-55-create-an-itasha-carby-riddi0908">Caso 55: Crear un Coche Itasha（por @riddi0908）</a></li>
+      <li><a href="#case-56-manga-compositionby-namaedousiyoka">Caso 56: Composición de Manga（por @namaedousiyoka）</a></li>
+      <li><a href="#case-57-manga-style-conversionby-nobisiro_2023">Caso 57: Conversión a Estilo Manga（por @nobisiro\_2023）</a></li>
+      <li><a href="#case-58-isometric-holographic-wireframeby-tetumemo">Caso 58: Wireframe Holográfico Isométrico（por @tetumemo）</a></li>
+      <li><a href="#case-59-minecraft-style-scene-generationby-tetumemo">Caso 59: Generación de Escena Estilo Minecraft（por @tetumemo）</a></li>
+      <li><a href="#case-60-apply-material-sphere-to-logoby-zho_zho_zho">Caso 60: Aplicar Esfera de Material a Logo（por @ZHO\_ZHO\_ZHO）</a></li>
+      <li><a href="#case-61-floor-plan-3d-renderby-op7418">Caso 61: Render 3D de Plano de Planta（por @op7418）</a></li>
+      <li><a href="#case-62-reset-camera-parametersby-hckinz">Caso 62: Restablecer Parámetros de Cámara（por @hckinz）</a></li>
+      <li><a href="#case-63-create-an-id-photoby-songguoxiansen">Caso 63: Crear una Foto de Identificación（por @songguoxiansen）</a></li>
+      <li><a href="#case-64-scene-a6-folding-cardby-gdgtify">Caso 64: Tarjeta Plegable A6 de Escena（por @Gdgtify）</a></li>
+      <li><a href="#case-65-design-a-chess-setby-gdgtify">Caso 65: Diseñar un Juego de Ajedrez（por @Gdgtify）</a></li>
+      <li><a href="#case-66-split-contrast-style-photoby-fofrai">Caso 66: Foto de Estilo de Contraste Dividido（por @fofrAI）</a></li>
+      <li><a href="#case-67-jewelry-collection-designby-gdgtify">Caso 67: Diseño de Colección de Joyería（por @Gdgtify）</a></li>
+      <li><a href="#case-68-merchandise-designby-0xframer">Caso 68: Diseño de Mercancía（por @0xFramer）</a></li>
+      <li><a href="#example-69-model-holographic-projection-by-unibracity">Ejemplo 69: Proyección Holográfica de Modelo (por @UNIBRACITY)</a></li>
+      <li><a href="#example-70-giant-figure-scaffolding-by-songguoxiansen">Ejemplo 70: Andamio de Figura Gigante (por @songguoxiansen)</a></li>
+      <li><a href="#example-71-building-extraction-from-remote-sensing-image-by-lehua555">Ejemplo 71: Extracción de Edificios de Imagen de Detección Remota (por @lehua555)</a></li>
+      <li><a href="#example-72-component-extraction-by-tetumemo">Ejemplo 72: Extracción de Componentes (por @tetumemo)</a></li>
+      <li><a href="#example-73-remove-burger-ingredients-by-bind_lux-case-provided-by-jeanlucaslima">Ejemplo 73: Eliminar Ingredientes de Hamburguesa (por @bind\_lux, caso proporcionado por @jeanlucaslima)</a></li>
+      <li><a href="#example-74-high-resolution-image-restoration-by-op7418">Ejemplo 74: Restauración de Imagen de Alta Resolución (por @op7418)</a></li>
+      <li><a href="#example-75-generate-miniature-scene-from-image-by-techhalla">Ejemplo 75: Generar Escena en Miniatura a partir de Imagen (por @techhalla)</a></li>
+      <li><a href="#example-76-educational-comic-by-op7418">Ejemplo 76: Cómic Educativo (por @op7418)</a></li>
+      <li><a href="#example-77-custom-character-emoji-pack-generation-by-vista8">Ejemplo 77: Generación de Pack de Emojis de Personaje Personalizado (por @vista8)</a></li>
+      <li><a href="#example-78-restore-partially-eaten-food-by-googlejapan">Ejemplo 78: Restaurar Comida Parcialmente Comida (por @googlejapan)</a></li>
+      <li><a href="#example-79-fighting-game-interface-creation-by-nanobanana_labs">Ejemplo 79: Creación de Interfaz de Juego de Lucha (por @NanoBanana\_labs)</a></li>
+      <li><a href="#example-80-model-cross-section-by-old_pgmrs_will">Ejemplo 80: Sección Transversal de Modelo (por @old\_pgmrs\_will)</a></li>
+      <li><a href="#example-81-pirate-wanted-poster-by-ai_kei75">Ejemplo 81: Cartel de Se Busca de Pirata (por @AI\_Kei75)</a></li>
+      <li><a href="#example-82-merchandise-display-shelf-by-tokyo_valentine">Ejemplo 82: Estante de Exhibición de Mercancía (por @tokyo\_Valentine)</a></li>
+      <li><a href="#example-83-comic-convention-booth-by-tokyo_valentine">Ejemplo 83: Stand de Convención de Cómics (por @tokyo\_Valentine)</a></li>
+      <li><a href="#example-84-line-art-to-doodle-drawing-by-haru_maki_ch">Ejemplo 84: De Arte Lineal a Dibujo Doodle (por @hAru\_mAki\_ch)</a></li>
+      <li><a href="#example-85-contemporary-art-exhibition-space-by-unibracity">Ejemplo 85: Espacio de Exposición de Arte Contemporáneo (por @UNIBRACITY)</a></li>
+      <li><a href="#example-86-dark-gothic-tarot-card-by-imperfectengel">Ejemplo 86: Carta de Tarot Gótica Oscura (por @ImperfectEngel)</a></li>
+      <li><a href="#example-87-black-and-white-evolution-chart-by-zho_zho_zho">Ejemplo 87: Tabla de Evolución en Blanco y Negro (por @ZHO\_ZHO\_ZHO)</a></li>
+      <li><a href="#example-88-glass-bottle-souvenir-by-nanobanana_labs">Ejemplo 88: Souvenir en Botella de Vidrio (por @NanoBanana\_labs)</a></li>
+      <li><a href="#example-89-miniature-store-by-nanobanana_labs">Ejemplo 89: Tienda en Miniatura (por @NanoBanana\_labs)</a></li>
+      <li><a href="#example-90-become-a-vtuber-by-ai_kei75">Ejemplo 90: Convertirse en un Vtuber (por @AI\_Kei75)</a></li>
+      <li><a href="#example-91-train-station-movie-poster-by-ai_kei75">Ejemplo 91: Póster de Película en Estación de Tren (por @AI\_Kei75)</a></li>
+      <li><a href="#example-92-movie-lounge-by-tokyo_valentine">Ejemplo 92: Sala Lounge de Cine (por @tokyo\_Valentine)</a></li>
+      <li><a href="#example-93-slice-object-with-cartoon-explosion-effect-by-arminn_ai">Ejemplo 93: Objeto Cortado con Explosión de Caricatura (por @Arminn_Ai)</a></li>
+      <li><a href="#example-94-character-themed-train-by-tokyo_valentine">Ejemplo 94: Tren Temático de Personajes (por @tokyo\_Valentine)</a></li>
+      <li><a href="#example-95-custom-theme-park-by-ai_kei75">Ejemplo 95: Parque Temático Personalizado (por @AI\_Kei75)</a></li>
+      <li><a href="#example-96-create-constellation-image-by-ai_kei75">Ejemplo 96: Crear Imagen de Constelación (por @AI\_Kei75)</a></li>
+      <li><a href="#example-97-turn-image-into-phone-wallpaper-by-zho_zho_zho">Ejemplo 97: Convertir Imagen en Fondo de Móvil (por @ZHO\_ZHO\_ZHO)</a></li>
+      <li><a href="#example-98-make-a-movie-poster-by-aiehon_aya">Ejemplo 98: Crear Póster de Película (por @aiehon_aya)</a></li>
+      <li><a href="#example-99-turn-x-account-into-floppy-disk-by-icreatelife">Ejemplo 99: Convertir Cuenta de X en Disquete (por @icreatelife)</a></li>
+      <li><a href="#example-100-make-reference-image-object-transparent-by-icreatelife">Ejemplo 100: Volver Transparente el Objeto de Referencia (por @icreatelife)</a></li>
+      <li><a href="#example-101-fisheye-peephole-illustration-by-emakiscroll">Ejemplo 101: Ilustración con Mirilla de Ojo de Pez (por @emakiscroll)</a></li>
+      <li><a href="#example-102-superhero-interior-design-by-iqrasafiii">Ejemplo 102: Diseño Interior de Superhéroe (por @IqraSaifiii)</a></li>
+      <li><a href="#example-103-custom-claw-machine-by-googlejapan">Ejemplo 103: UFO Catcher Personalizado (por @googlejapan)</a></li>
+      <li><a href="#example-104-typography-logo-design-by-aziz4ai">Ejemplo 104: Diseño de Logo Tipográfico (por @aziz4ai)</a></li>
+      <li><a href="#example-105-rpg-character-status-ui-by-ai_kei75">Ejemplo 105: UI de Estado de Personaje RPG (por @AI\_Kei75)</a></li>
+      <li><a href="#example-106-convert-text-diagram-to-pictograms-by-nobisiro_2023">Ejemplo 106: Convertir Diagrama en Pictogramas (por @nobisiro_2023)</a></li>
+      <li><a href="#example-107-drawing-on-a-pen-display-by-ai_kei75">Ejemplo 107: Dibujo en Tableta Gráfica (por @AI\_Kei75)</a></li>
+      <li><a href="#example-108-create-line-stamp-image-by-emakiscroll">Ejemplo 108: Crear Imagen de Sticker LINE (por @emakiscroll)</a></li>
+      <li><a href="#example-109-therapy-for-childhood-self-by-samann_ai">Ejemplo 109: Terapia para el Yo Infantil (por @samann_ai)</a></li>
+      <li><a href="#example-110-pixar-style-portrait-by-nanobanana_labs">Ejemplo 110: Retrato Estilo Pixar (por @NanoBanana\_labs)</a></li>
+    </ul>
+  </li>
+  <li><a href="#-acknowledge">🙏 Agradecimientos</a></li>
+</ul>
 
 ## 🖼️ Casos
 
