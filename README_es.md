@@ -1660,7 +1660,7 @@ Procesamiento de ilustración:
 Elimina el fondo y convierte a los personajes en figuras y merchandising.
 
 Tema / Descripción general:
-Un lounge de cine fotorrealista. Un espacio temático de evento especial dentro del puesto de palomitas, decorado con elementos del mundo del personaje.
+Una sala de cine fotorrealista. Un espacio temático de evento especial dentro del puesto de palomitas, decorado con elementos del mundo del personaje.
 
 Ubicación:
 Un amplio mostrador de palomitas del cine.
@@ -1682,8 +1682,8 @@ Cubetas de palomitas.
 Pantallas LED LCD de gran tamaño.
 
 Diseño / Promoción:
-Las ilustraciones del personaje aparecen en cada cartel del lounge.
-Muestra visuales llamativos para los alimentos y bebidas de la colaboración.
+Las ilustraciones del personaje aparecen en cada cartel de la sala.
+Muestra anuncios llamativos para los alimentos y bebidas de la colaboración.
 Proyecta animaciones y clips del personaje en las pantallas LED.
 
 Ángulo de cámara:
@@ -1814,7 +1814,7 @@ Crea una imagen de una constelación ficticia basada en la imagen original.
 **Prompt:**
 
 ```
-Transforma la imagen en un fondo de pantalla bloqueada de iPhone. Superpone la hora (01:16), la fecha (domingo 16 de septiembre) y los detalles de la barra de estado (batería, señal, etc.), con los iconos de linterna y cámara en la parte inferior. Ajusta la imagen original para encajar en la composición vertical alargada de un smartphone. Coloca el teléfono sobre un fondo que comparta la misma paleta de colores.
+Transforma la imagen en un fondo de pantalla bloqueada de iPhone. Superponiendo la hora (01:16), la fecha (domingo 16 de septiembre) y los detalles de la barra de estado (batería, señal, etc.), con los iconos de linterna y cámara en la parte inferior. Ajusta la imagen original para encajar en la composición vertical alargada de un smartphone. Coloca el teléfono sobre un fondo que comparta la misma paleta de colores.
 ```
 
 <!-- Ejemplo 98: Crear Póster de Película (por @aiehon_aya) -->
